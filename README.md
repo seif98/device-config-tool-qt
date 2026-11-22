@@ -1,10 +1,14 @@
+
 # Device Config Tool (Qt 6 / C++17)
 
 A desktop tool to read, edit and write the parameters of an embedded device over a
 framed binary protocol. It runs **without hardware** using a built-in device simulator,
 and talks to a real device over a serial port.
 
-<!-- TODO: add screenshot -->
+<img width="1920" height="1040" alt="1" src="https://github.com/user-attachments/assets/da974349-8586-493f-a980-be43816a990a" />
+
+<img width="1920" height="1040" alt="2" src="https://github.com/user-attachments/assets/8a46f252-ffd4-45a1-809a-a6185b1e0217" />
+
 
 ## Features
 - Parameter table with range validation, per-row status and confirmed values from the device
